@@ -24,3 +24,6 @@ Plugin to display a Distich from Persian poets.
 ### About
 Author: Javad Ahshamian
 Author URI: https://ham3da.ir/
+
+http://github.com - automatic!
+[GitHub](http://github.com)

@@ -4,7 +4,7 @@
 Plugin to display a Distich from Persian poets.
 
 ## Requirements
-1. WordPress
+1. [WordPress](https://wordpress.org/)
 
 ## امکانات افزونه
 1. امکان نمایش یک بیت شعر تصادفی در ویجت
@@ -22,8 +22,5 @@ Plugin to display a Distich from Persian poets.
 ![screenshot 2](screenshot-1.png)
 
 ### About
-Author: Javad Ahshamian
-Author URI: https://ham3da.ir/
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+* Author: Javad Ahshamian
+* Author URI: https://ham3da.ir/

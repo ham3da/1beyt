@@ -1,13 +1,14 @@
 # <span dir="rtl">یک بیت شعر </span>
 <p dir="rtl">
 افزونه‌ای برای نمایش یک بیت شعر تصادفی در وردپرس
-<p>
+</p>
 Plugin to display a Distich from Persian poets.
 
 ## Requirements
 1. [WordPress](https://wordpress.org/)
 
 <div dir="rtl">
+
 ## امکانات افزونه
 1. امکان نمایش یک بیت شعر تصادفی در ویجت
 1. امکان نمایش بیت با کد کوتاه در هر جای سایت
@@ -23,7 +24,7 @@ Plugin to display a Distich from Persian poets.
 
 ![screenshot 2](screenshot-1.png)
 
-<div>
+</div>
 
 ### About
 * Author: Javad Ahshamian

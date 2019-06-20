@@ -83,7 +83,7 @@ Answer [yek_beyt]
 * Compatibility with WordPress 5.2.2
 
 == Donations ==
-You can Donate plugin author here https://ham3da.ir/donation/
+You can Donate plugin author [here](https://ham3da.ir/donation/)
 
 == Github ==
-Contribute on the Github: https://github.com/ham3da/1beyt
+Contribute on the [Github](https://github.com/ham3da/1beyt)

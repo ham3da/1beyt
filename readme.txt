@@ -79,6 +79,11 @@ Answer [yek_beyt]
 * Optimize Plugin|| بهینه سازی افزونه
 = 1.5.1 =
 * Update Package
+= 1.5.2 =
+* Compatibility with WordPress 5.2.2
 
 == Donations ==
 You can Donate plugin author here https://ham3da.ir/donation/
+
+== Github ==
+Contribute on the Github: https://github.com/ham3da/1beyt

@@ -15,7 +15,7 @@ Plugin to display a Distich from Persian poets.
 1. نمایش یک بیت شعر با استفاده از ابزارک
 1. نمایش یک بیت شعر با استفاده از کد کوتاه `[yek_beyt]`
 
-##عکس‌ها
+##عک س‌ها
 
 ![screenshot 1](screenshot-2.png)
 

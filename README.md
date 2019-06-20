@@ -1,7 +1,7 @@
 # یک بیت شعر 
-
+<p dir="rtl">
 افزونه‌ای برای نمایش یک بیت شعر تصادفی در وردپرس
-<br>
+<p>
 Plugin to display a Distich from Persian poets.
 
 ## Requirements

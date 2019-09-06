@@ -1,7 +1,9 @@
-# <span dir="rtl">یک بیت شعر </span>
-<p dir="rtl">
+<div dir="rtl">
+# یک بیت شعر
+<p>
 افزونه‌ای برای نمایش یک بیت شعر تصادفی در وردپرس
 </p>
+</div>  
 Plugin to display a Distich from Persian poets.
 
 ## Requirements
